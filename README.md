@@ -2,7 +2,8 @@
 * 🥰热爱后端、热爱技术
 * 💕喜欢参与一些开源技术的讨论
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=Eurekan&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/><img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekan&locale=cn&line_height=33&theme=&langs_count=5"/>
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=Eurekan&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default"/>
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekan&locale=cn&line_height=33&theme=&langs_count=5"/>
 <!--
 **Eurekan/Eurekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
