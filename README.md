@@ -6,7 +6,7 @@
 - 🌱 正在学习编程，热爱新技术
 - 💻 开源项目：<a href="https://github.com/Eurekan/seek-partner-backend" target="_blank">伙伴匹配系统</a>
 
-## 我的技能
+## 我的技术栈🧰
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
