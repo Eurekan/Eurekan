@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello，我是Eurekan
+* 🥰热爱后端、热爱技术
+* 💕喜欢参与一些开源技术的讨论
 
 <!--
 **Eurekan/Eurekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
