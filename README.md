@@ -1,6 +1,8 @@
 ## Hello，我是Eurekan
 * 🥰热爱后端、热爱技术
 * 💕喜欢参与一些开源技术的讨论
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Eurekan&amp;show_icons=true&amp;theme=tokyonight)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&amp;layout=compact&amp;theme=tokyonight)
 
 <!--
 **Eurekan/Eurekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
