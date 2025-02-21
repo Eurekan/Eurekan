@@ -4,7 +4,7 @@
 
 - 🧑‍💻 码龄 1 年
 - 🌱 正在学习编程，热爱新技术
-- 💻 开源项目：<a href="https://github.com/Eurekan/seek-partner-backend" target="_blank">伙伴匹配系统</a>｜<a href="https://github.com/Eurekan/user-center" target="_blank">用户中心系统</a>
+- 💻 开源项目：<a href="https://github.com/Eurekan/Java-AI" target="_blank">Java-AI</a>｜<a href="https://github.com/Eurekan/seek-partner-backend" target="_blank">伙伴匹配系统</a>｜<a href="https://github.com/Eurekan/user-center" target="_blank">用户中心系统</a>
 
 ## 我的技术栈🛠️
 
