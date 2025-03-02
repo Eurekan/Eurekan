@@ -2,14 +2,13 @@
 
 您好👋，我是一名大三学生，主要技术栈为 Java + Vue，希望我的开源项目能被更多人关注到。
 
-- 🧑‍💻 码龄 1 年
+- 🧑‍💻 码龄 2 年
 - 🌱 正在学习编程，热爱新技术
 - 💻 开源项目：<a href="https://github.com/Eurekan/Java-AI" target="_blank">Java-AI</a>｜<a href="https://github.com/Eurekan/seek-partner-backend" target="_blank">伙伴匹配系统</a>｜<a href="https://github.com/Eurekan/user-center" target="_blank">用户中心系统</a>
 
 ## 我的技术栈🛠️
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-TS-339933?style=flat-square&logo=typescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
