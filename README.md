@@ -2,7 +2,7 @@
 
 您好👋，我是一名大三学生，主要技术栈为 Java + Vue，希望我的开源项目能被更多人关注到。
 
-- 🧑‍💻 码龄 2 年
+- 🧑‍💻 码龄 1 年
 - 🌱 正在学习编程，热爱新技术
 - 💻 开源项目：<a href="https://github.com/Eurekan/picwave-backend" target="_blank">图潮 AI 云图库</a>｜<a href="https://github.com/Eurekan/seek-partner-backend" target="_blank">伙伴匹配系统</a>｜<a href="https://github.com/Eurekan/Java-AI" target="_blank">Java-AI</a> | <a href="https://github.com/Eurekan/user-center" target="_blank">用户中心系统</a>
 
