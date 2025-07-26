@@ -4,7 +4,7 @@
 
 - 🧑‍💻 码龄 1 年
 - 🌱 正在学习编程，热爱新技术
-- ⭐️ 个人网站：<a href="https://eurekan.github.io/" target="_blank">个人博客</a>｜<a href="https://picwave.top/" target="_blank">图潮 AI 云图库</a>｜<a href="https://eureka-ai-agent-165614-6-1362239238.sh.run.tcloudbase.com" target="_blank">eureka-ai-agent</a>
+- ⭐️ 个人网站：<a href="https://eurekan.github.io/" target="_blank">个人博客</a>｜<a href="http://picwave.top/" target="_blank">图潮 AI 云图库</a>｜<a href="https://eureka-ai-agent-165614-6-1362239238.sh.run.tcloudbase.com" target="_blank">eureka-ai-agent</a>
 - 💻 开源项目：<a href="https://github.com/Eurekan/eureka-ai-agent" target="_blank">eureka-ai-agent</a>｜<a href="https://github.com/Eurekan/picwave-backend" target="_blank">图潮 AI 云图库</a>｜<a href="https://github.com/Eurekan/seek-partner-backend" target="_blank">伙伴匹配系统</a>｜<a href="https://github.com/Eurekan/user-center" target="_blank">用户中心系统</a>｜<a href="https://github.com/Eurekan/eureka-springboot-init" target="_blank">项目初始模板</a>｜<a href="https://github.com/Eurekan/Java-AI" target="_blank">Java-AI</a> 
 
 ## 我的技术栈🛠️
